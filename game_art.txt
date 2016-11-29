@@ -1,1 +1,7 @@
 Game Art for the mobile game project
+
+Assets needed:
+car
+plane
+train
+bike
